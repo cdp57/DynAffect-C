@@ -17,11 +17,13 @@ understanding of how and why emotions change in dynamic environments.
 
 ## Setup
 1. Download GBE data from https://datadryad.org/dataset/doi:10.5061/dryad.prr4xgxkk. Load GBE matlab data into the "Data" directory.
-2. If using data from the replication experiment, download data from https://osf.io/9g2zw. Move the "Raw Data" folder into the "Data" directory
+2. If using data from the replication experiment, download data from https://osf.io/9g2zw. Move the "Raw Data" folder into the "Data" directory.
 3. Install requirements
 ```
 requirements.ipynb
 ```
-4. To run data preprocessing, models, and analysis, see "Preprocessing", "Models", and "Analysis" directories
+4. To run data preprocessing for the GBE and replication datasets, see the "Preprocessing" directory.
+5. To fit SINDy and OLS models, see the "Models" directory.
+6. To run analysis scripts on model outputs, see the "Analysis" directory.
 
 
