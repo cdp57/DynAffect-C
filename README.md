@@ -18,7 +18,7 @@ understanding of how and why emotions change in dynamic environments.
 ## Setup
 1. Download GBE data from https://datadryad.org/dataset/doi:10.5061/dryad.prr4xgxkk. Load GBE matlab data into the "Data" directory.
 2. If using data from the replication experiment, download data from https://osf.io/9g2zw. Move the "Raw Data" folder into the "Data" directory.
-3. Install package requirements in Jupyter Notebook:
+3. Install package requirements in Jupyter Notebook and create directories for data and figures:
 ```
 requirements.ipynb
 ```
