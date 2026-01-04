@@ -1,7 +1,7 @@
 # Bridging Internal and External Forces in Emotion Dynamics
 
 ## Contributors
-Charlie Prince, Heath A. Demaree, Amit Goldenberg, Kyle J. LaFollette
+Charlie Prince, Heath A. Demaree, Kyle J. LaFollette
 
 ## About
 Affective experience reflects both internal momentum and external reactivity to situations, yet
